@@ -8,9 +8,9 @@
           </div><br>
     <div align= "center">  </div> 
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Studying...📚 </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Studying... 📚 </h2>
     <div style="margin: 0 auto; text-align: center;" align= "center">
-     <img src="https://img.shields.io/badge/salesforce-%2300A1E0.svg?&style=for-the-badge&logo=salesforce&logoColor=white" />
+     <img src="https://img.shields.io/badge/salesforce-%2300A1E0.svg?&style=for-the-badge&logo=salesforce&logoColor=white" /><br/>
      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -22,7 +22,7 @@
           </div>
     </div><br>
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stat 📋 </h2>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunguKim816&show_icons=true&theme=panda)    
 

@@ -3,7 +3,6 @@
 
 <div align = "center">
  
- ![Profile Demo](https://tech-orbit.wontory.dev/api?title=Joy&tech=Typescript,React&size=300)
  
  <p>
   Hello, I'm Eunsu.<br/>

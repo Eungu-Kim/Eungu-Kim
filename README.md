@@ -124,13 +124,13 @@
       src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/administrator.png"
       width="100"
       alt="Salesforce Administrator Certification"
-      style="margin-right: 5px;"
+      style="margin-right: 10px;"
     />
     <img
       src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/Tableau Bootcamp.jpg"
       width="100"
       alt="Salesforce Tableau Bootcamp"
-      style="margin-left: 5px;"
+      style="margin-left: 10px;"
     />
   </p>
 </div>

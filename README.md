@@ -107,7 +107,7 @@
       Backend Repository
     </a><br/>
     📄 <a href="https://longhaired-gorilla-5e1.notion.site/276c7ba925808089ab63dfc51f30d1af">
-      API Specification (Notion, authored)
+      Project Overview (Notion, authored)
     </a>
   </p>
 </div>

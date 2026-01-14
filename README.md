@@ -49,7 +49,13 @@
     Salesforce 기반으로 Lead, Opportunity, Order, Case 데이터를 통합 관리하는<br/>
     <b>End-to-End CRM 솔루션</b> 개발 프로젝트
   </p>
-
+  
+  <p>
+    🔗 <a href="https://github.com/Eungu-Kim/maison-lavin-project">
+      Project Repository
+    </a>
+  </p>
+  
   <p>
     <b>Role</b><br/>
     Salesforce Developer
@@ -88,12 +94,6 @@
       (주소 검색 및 지도 표시 기능 구현)
     </li>
   </ul>
-
-  <p>
-    🔗 <a href="https://github.com/Eungu-Kim/maison-lavin-project">
-      Project Repository
-    </a>
-  </p>
 </div>
 
 <div style="margin-bottom: 30px;">
@@ -102,6 +102,15 @@
   <p>
     Java와 Spring MVC 구조 학습을 목표로 진행한 팀 웹 애플리케이션 프로젝트로,  
     API 설계·명세 작성부터 백엔드 구현 및 AWS 서버 배포까지 전 과정을 경험
+  </p>
+
+  <p>
+    🔗 <a href="https://github.com/Help-force/Helpforce_BE">
+      Backend Repository
+    </a><br/>
+    📄 <a href="https://longhaired-gorilla-5e1.notion.site/276c7ba925808089ab63dfc51f30d1af">
+      Project Overview (Notion, authored)
+    </a>
   </p>
 
   <p>
@@ -145,15 +154,6 @@
       백엔드 서비스 외부 접근 가능하도록 구성
     </li>
   </ul>
-
-  <p>
-    🔗 <a href="https://github.com/Help-force/Helpforce_BE">
-      Backend Repository
-    </a><br/>
-    📄 <a href="https://longhaired-gorilla-5e1.notion.site/276c7ba925808089ab63dfc51f30d1af">
-      Project Overview (Notion, authored)
-    </a>
-  </p>
 </div>
 
 <br>

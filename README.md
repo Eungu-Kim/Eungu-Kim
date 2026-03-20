@@ -190,5 +190,11 @@
       alt="Salesforce Tableau Bootcamp"
       style="margin-left: 10px;"
     />
+    <img
+      src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/Tableau Bootcamp2.jpg"
+      width="120"
+      alt="Salesforce Tableau Bootcamp2"
+      style="margin-left: 10px;"
+    />
   </p>
 </div>

@@ -177,6 +177,12 @@
       style="margin-right: 10px;"
     />
     <img
+      src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/developer2.png"
+      width="120"
+      alt="Salesforce Platform Developer II Certification"
+      style="margin-right: 10px;"
+    />
+    <img
       src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/agentforce.png"
       width="120"
       alt="Salesforce Agentforce Specialist Certification"

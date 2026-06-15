@@ -182,10 +182,18 @@
       alt="Salesforce Platform Developer II Certification"
       style="margin-right: 10px;"
     />
+  </p>
+  <p align="center">
     <img
       src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/agentforce.png"
       width="120"
       alt="Salesforce Agentforce Specialist Certification"
+      style="margin-right: 10px;"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/data360.png"
+      width="120"
+      alt="Salesforce Certified Data 360 Consultant"
       style="margin-right: 10px;"
     />
   </p>

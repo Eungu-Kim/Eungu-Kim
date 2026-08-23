@@ -196,6 +196,12 @@
       alt="Salesforce Certified Data 360 Consultant"
       style="margin-right: 10px;"
     />
+    <img
+      src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/service.png"
+      width="120"
+      alt="Salesforce Certified Agentforce Service Consultant"
+      style="margin-right: 10px;"
+    />
   </p>
   <p align="center">
     <img
